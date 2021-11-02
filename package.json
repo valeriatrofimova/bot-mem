@@ -1,7 +1,6 @@
 {
   "name": "bot-mem",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/valeriatrofimova/bot-mem/issues"
   },
-  "homepage": "https://github.com/valeriatrofimova/bot-mem#readme"
+  "homepage": "https://github.com/valeriatrofimova/bot-mem#readme",
+  "dependencies": {
+    "telegraf": "^4.4.2"
+  },
+  "devDependencies": {},
+  "description": ""
 }
